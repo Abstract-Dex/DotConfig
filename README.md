@@ -14,6 +14,7 @@ This repository contains my personal dotfiles, managed with **GNU Stow** for eas
 - **Editor**: Neovim setup
 - **Terminal**: tmux, ghostty, wezterm
 - **Tiling WM (for mac)**: Aerospace
+- **Tiling WM (for linux)**: Hyprland
 
 ## 🚀 Installation
 
